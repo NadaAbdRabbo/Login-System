@@ -1,0 +1,44 @@
+body{
+    background-color: #24353F;
+
+}
+.container{
+    width: 60%;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1)
+}
+h1{
+    color: #17A2B8;
+}
+.form-control:focus{
+    box-shadow: none;
+    color: white !important;
+    
+    
+}
+.form-control{
+    border: 1px solid #ced4da;
+    color: white !important;
+}
+input {
+    background-color: transparent !important;
+    color: #fff !important;
+}
+input::placeholder{
+    color: #B6B6AB !important;
+    
+}
+a {
+    text-decoration: none;
+}
+
+nav{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.btn-nav{
+    border: 2px solid yellow;
+    color: #B6B6AB;
+}
+
+.navbar-brand{
+    color: #fff;
+}
